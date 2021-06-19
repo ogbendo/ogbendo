@@ -10,5 +10,6 @@
 - Discord : bendo#0003
 - [Telegram](https://t.me/bendoSells)
 - [Website](https://bendo.codes/)
+- bendo.nagato@protonmail.com
 
 
