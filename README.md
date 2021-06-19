@@ -1,4 +1,4 @@
-### Hi there, I'm bendo 
+### Hi there, I'm bendo 👋 
 
 ## I'm a developer and a student   
 - 🌐 I'm currently working on my [website](https://bendo.codes/)
