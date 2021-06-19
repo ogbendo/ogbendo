@@ -1,6 +1,6 @@
 ### Hi there, I'm bendo 👋 
 
-## I'm a developer and a student   
+## I'm a student  
 - 🌐 I'm currently working on my [website](https://bendo.codes/)
 - 🐍 I'm currently learning more and more python
 - 🤖 I'm currently working on [AnonSpammer](https://github.com/ogbendo/AnonSpammer)
