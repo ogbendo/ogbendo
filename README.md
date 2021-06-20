@@ -1,5 +1,5 @@
 ### Hi there, I'm bendo 👋 
-![](https://komarev.com/ghpvc/?username=ogbendo&color=magenta)
+![](https://komarev.com/ghpvc/?username=ogbendo&color=red)
 
 ## I'm a student  
 - 🌐 I'm currently working on my [website](https://bendo.codes/)
