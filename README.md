@@ -7,6 +7,7 @@
 - 🐍 I'm currently learning more and more python
 - 🤖 I'm currently working on [AnonSpammer](https://github.com/ogbendo/AnonSpammer)
 - 🤝 I'm always looking for new projects and collaborations
+- 💨 Will optimize the speed soon
 
 ### How to contact me :
 - Discord : bendo#0003
