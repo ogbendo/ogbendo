@@ -5,7 +5,7 @@
 ## I'm a student  
 - 🌐 I'm currently working on my [website](https://bendo.codes/)
 - 🐍 I'm currently learning more and more python
-- 🤖 I'm currently working on [AnonSpammer](https://github.com/ogbendo/AnonSpammer)
+- 🤖 I'm currently learning Django
 - 🤝 I'm always looking for new projects and collaborations
 - 💨 Will optimize the speed soon
 
@@ -16,9 +16,9 @@
 - bendo.nagato@protonmail.com
 
 ## Lastest Tool
-- Venom, the least powerful stresser
-- AnonSpammer, an anonfiles upload spammer
-- Identity, an anonfiles bruteforcer
-- Webhook, a Discord webhook utils
+- [Venom](https://github.com/ogbendo/Venom) | The least powerful stresser
+- [AnonSpammer](https://github.com/ogbendo/AnonSpammer) | Anonfiles upload spammer
+-[Identity](https://github.com/ogbendo/Identity) | Anonfiles bruteforcer
+-[Webhook](https://github.com/ogbendo/Webhook) | Discord webhook utils (spam, delete)
 
 
