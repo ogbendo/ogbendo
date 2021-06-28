@@ -3,7 +3,6 @@
 
 
 ## I'm a student  
-- 🎵 I'm currently working on my [TikTok Checker](https://github.com/ogbendo/Tiktok-username-checker)
 - 🐍 I'm currently learning more and more python
 - 🤖 I'm currently learning Django
 - 🤝 I'm always looking for new projects and collaborations
