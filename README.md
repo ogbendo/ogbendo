@@ -15,6 +15,7 @@
 - bendo.nagato@protonmail.com
 
 ## Lastest Tool
+- [Updater](https://github.com/ogbendo/Updater) | Tool to update a Github release automatically
 - [LinkBypass](https://github.com/ogbendo/LinkBypass) | Tool to bypass linkvertise links
 - [Venom](https://github.com/ogbendo/Venom) | The least powerful stresser
 - [AnonSpammer](https://github.com/ogbendo/AnonSpammer) | Anonfiles upload spammer
