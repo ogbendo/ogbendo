@@ -9,7 +9,7 @@
 - 💨 Will optimize the speed soon
 
 ### How to contact me :
-- Discord : bendo#0003
+- Discord : bendo#0002
 - [Telegram](https://t.me/bendoSells)
 - [Website](https://bendo.codes/)
 - bendo.nagato@protonmail.com
