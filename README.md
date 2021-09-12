@@ -4,7 +4,7 @@
 
 ## I'm a student  
 - 🐍 I'm currently learning more and more python
-- 🤖 I'm currently learning Django
+- 🤖 I'm currently learning Flask
 - 🤝 I'm always looking for new projects and collaborations
 - 💨 Will optimize the speed soon
 
