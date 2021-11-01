@@ -12,7 +12,7 @@
 - Discord : bendo#0002
 - [Telegram](https://t.me/bendoSells)
 - [Website](https://bendo.codes/)
-- bendo.nagato@protonmail.com
+- bendo@bendo.me
 
 ## Lastest Tool
 - [Updater](https://github.com/ogbendo/Updater) | Tool to update a Github release automatically
